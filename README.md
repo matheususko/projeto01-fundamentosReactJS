@@ -19,7 +19,7 @@ Passo a passo:
 ```
 git clone <link>
 ```
-2. Após clonar ainda na rota a onde você clonou faça o seguintes comandos
+2. Após clonar ainda na rota a onde você clonou faça os seguintes comandos
 ```
 npm install
 ```
